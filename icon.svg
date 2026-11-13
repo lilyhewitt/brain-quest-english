@@ -13,8 +13,9 @@
 <path d="M236 330 Q256 348 276 330" fill="none" stroke="#4A3A8C" stroke-width="10" stroke-linecap="round"/>
 <g fill="#FF8FA8" opacity=".7"><circle cx="184" cy="326" r="13"/><circle cx="328" cy="326" r="13"/></g>
 <g transform="translate(404 108)">
-<circle r="84" fill="#FFFFFF" stroke="#E85D3A" stroke-width="10"/>
-<g fill="none" stroke="#E85D3A" stroke-width="9"><ellipse rx="60" ry="21"/><ellipse rx="60" ry="21" transform="rotate(60)"/><ellipse rx="60" ry="21" transform="rotate(-60)"/></g>
+<circle r="84" fill="#FFFFFF" stroke="#185FA5" stroke-width="10"/>
+<text x="0" y="20" font-family="Arial Black,Arial,sans-serif" font-size="58" font-weight="900" text-anchor="middle" fill="#185FA5" letter-spacing="-2">ABC</text>
+</g>
 <circle r="13" fill="#E85D3A"/>
 </g>
 </svg>
