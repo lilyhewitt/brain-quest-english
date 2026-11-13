@@ -16,6 +16,4 @@
 <circle r="84" fill="#FFFFFF" stroke="#185FA5" stroke-width="10"/>
 <text x="0" y="20" font-family="Arial Black,Arial,sans-serif" font-size="58" font-weight="900" text-anchor="middle" fill="#185FA5" letter-spacing="-2">ABC</text>
 </g>
-<circle r="13" fill="#E85D3A"/>
-</g>
 </svg>
